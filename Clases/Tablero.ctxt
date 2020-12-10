@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Tablero
+comment0.text=\r\n\r\n\ @author\ Miguel\r\n
+comment1.params=img\ tableroBase
+comment1.target=Tablero(java.util.ArrayList,\ int[][])
+comment2.params=img\ muros\ tableroBase
+comment2.target=Tablero(java.util.ArrayList,\ java.util.ArrayList,\ int[][])
+comment3.params=g
+comment3.target=void\ paint(java.awt.Graphics)
+comment4.params=t
+comment4.target=ObjetoDeJuego[][]\ generarTablero(int[][])
+comment5.params=
+comment5.target=ObjetoDeJuego[][]\ getElTablero()
+comment6.params=
+comment6.target=boolean\ hayComida()
+comment7.params=otroTab
+comment7.target=void\ setElTablero(int[][])
+comment8.params=
+comment8.target=void\ aparecerFrutitas()
+comment9.params=
+comment9.target=boolean\ hayComnidaBonus()
+numComments=10

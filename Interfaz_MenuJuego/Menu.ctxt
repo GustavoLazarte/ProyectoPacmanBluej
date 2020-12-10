@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=
+comment1.target=Menu()
+comment2.params=
+comment2.target=void\ agregarBotones()
+comment3.params=
+comment3.target=void\ agregarF()
+comment4.params=
+comment4.target=void\ agregarM()
+comment5.params=
+comment5.target=void\ agregarMusiquita()
+comment6.params=
+comment6.target=BotonesDeMenu\ getBotones()
+numComments=7

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Comida_Bonus
+comment0.text=\r\n\r\n\ @author\ Miguel\r\n
+comment1.params=sp
+comment1.target=Comida_Bonus(javax.swing.ImageIcon)
+comment2.params=sp\ aux
+comment2.target=Comida_Bonus(javax.swing.ImageIcon,\ javax.swing.ImageIcon)
+comment3.params=g
+comment3.target=void\ paint(java.awt.Graphics)
+comment4.params=x\ y
+comment4.target=void\ setUbicacion(int,\ int)
+comment5.params=
+comment5.target=void\ aparecer()
+comment6.params=
+comment6.target=int\ getValor()
+comment7.params=
+comment7.target=boolean\ isAparecer()
+numComments=8

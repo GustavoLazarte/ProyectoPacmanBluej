@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Audio
+comment0.text=\r\n\r\n\ @author\ Miguel\r\n
+comment1.params=
+comment1.target=Audio()
+comment2.params=ubicacion
+comment2.target=void\ reproducir(java.lang.String)
+comment3.params=ubicacion
+comment3.target=void\ reproducirInfinito(java.lang.String)
+comment4.params=
+comment4.target=void\ pausar()
+comment5.params=
+comment5.target=void\ stop()
+comment6.params=
+comment6.target=boolean\ estaEnCurso()
+numComments=7

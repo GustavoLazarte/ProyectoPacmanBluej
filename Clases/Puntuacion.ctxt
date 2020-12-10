@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Puntuacion
+comment0.text=\r\n\r\n\ @author\ Miguel\r\n
+comment1.params=nombre\ puntos
+comment1.target=Puntuacion(java.lang.String,\ int)
+comment2.params=otra
+comment2.target=int\ compareTo(Puntuacion)
+comment3.params=
+comment3.target=int\ getPuntos()
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=nombre
+comment6.target=void\ setNombre(java.lang.String)
+numComments=7

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Comida
+comment0.text=\r\n\r\n\ @author\ Miguel\r\n
+comment1.params=valor\ sp
+comment1.target=Comida(int,\ javax.swing.ImageIcon)
+comment2.params=
+comment2.target=int\ getValor()
+numComments=3

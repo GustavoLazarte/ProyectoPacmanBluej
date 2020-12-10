@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Comida_Normal
+comment0.text=\r\n\r\n\ @author\ Miguel\r\n
+comment1.params=sp
+comment1.target=Comida_Normal(javax.swing.ImageIcon)
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=x\ y
+comment3.target=void\ setUbicacion(int,\ int)
+numComments=4

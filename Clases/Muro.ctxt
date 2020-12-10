@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Muro
+comment0.text=\r\n\r\n\ @author\ Miguel\r\n
+comment1.params=sp
+comment1.target=Muro(javax.swing.ImageIcon)
+comment2.params=sprites
+comment2.target=Muro(java.util.ArrayList)
+comment3.params=g
+comment3.target=void\ paint(java.awt.Graphics)
+comment4.params=x\ y
+comment4.target=void\ setUbicacion(int,\ int)
+numComments=5

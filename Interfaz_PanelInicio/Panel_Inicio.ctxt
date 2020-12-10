@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Panel_Inicio
+comment1.params=
+comment1.target=Panel_Inicio()
+comment2.params=
+comment2.target=void\ agregarBotones()
+comment3.params=
+comment3.target=void\ agregarBotonInicio()
+comment4.params=
+comment4.target=void\ agregarBotonSalir()
+comment5.params=
+comment5.target=void\ agregarGif()
+comment6.params=
+comment6.target=void\ agregarTitulo()
+comment7.params=
+comment7.target=Herramientas.BotonesPersonalizados\ getBtn_inicio()
+comment8.params=
+comment8.target=Herramientas.BotonesPersonalizados\ getBtn_fin()
+numComments=9
